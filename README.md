@@ -1,6 +1,6 @@
 ## spfx-service-react
 
-This is where you include your WebPart documentation.
+Thanks to Vardhaman and Jose
 
 ### Building the code
 
