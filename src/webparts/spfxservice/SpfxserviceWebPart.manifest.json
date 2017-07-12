@@ -1,0 +1,26 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "acf4a9fa-beb3-4833-85ef-8caa6dd8d05a",
+  "alias": "SpfxserviceWebPart",
+  "componentType": "WebPart",
+  "version": "*", // The "*" signifies that the version should be taken from the package.json
+  "manifestVersion": 2,
+
+  /**
+   * This property should only be set to true if it is certain that the webpart does not
+   *  allow arbitrary scripts to be called
+   */
+  "safeWithCustomScriptDisabled": false,
+
+  "preconfiguredEntries": [{
+    "groupId": "acf4a9fa-beb3-4833-85ef-8caa6dd8d05a",
+    "group": { "default": "Under Development" },
+    "title": { "default": "spfxservice" },
+    "description": { "default": "spfxservice description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "spfxservice"
+    }
+  }]
+}

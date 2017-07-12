@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "spfx-service-react",
+    "libraryId": "ed76ebd8-b7ff-478b-a288-96cfedd693a9",
+    "environment": "spo"
+  }
+}

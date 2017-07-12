@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-service-react-client-side-solution",
+    "id": "ed76ebd8-b7ff-478b-a288-96cfedd693a9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-service-react.sppkg"
+  }
+}
